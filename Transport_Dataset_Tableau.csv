@@ -1,0 +1,9 @@
+Transport_ID,Vehicle_Type,Route,Distance_km,Fuel_Type,Passengers,Fare,Date,City
+1,Bus,A,15,Diesel,45,20,1/10/2026,Bangalore
+2,Taxi,B,8,Petrol,3,120,1/10/2026,Mysore
+3,Metro,C,20,Electric,200,30,1/11/2026,Bangalore
+4,Auto,D,5,CNG,2,60,1/11/2026,Chennai
+5,Bus,A,15,Diesel,50,20,1/12/2026,Bangalore
+6,Taxi,E,12,Petrol,4,150,1/12/2026,Hyderabad
+7,Metro,C,20,Electric,180,30,1/13/2026,Bangalore
+8,Auto,F,6,CNG,3,70,1/13/2026,Chennai
